@@ -1,0 +1,18 @@
+plugins {
+    id 'java'
+}
+
+group 'anr.telegram'
+version '1.0-SNAPSHOT'
+
+setSourceCompatibility(11)
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile "org.telegram:telegrambots:5.0.1"
+
+}
+
