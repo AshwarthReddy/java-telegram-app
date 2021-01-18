@@ -11,7 +11,7 @@ public class ChatBoat extends TelegramLongPollingBot {
 
     @Override
     public String getBotToken() {
-        return "1547674237:AAFd2mY7yuNGccXggonfjd-4xvDI8M90EbQ";
+        return "xxx";
     }
 
     @Override
